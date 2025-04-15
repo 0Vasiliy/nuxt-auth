@@ -1,0 +1,17 @@
+{
+  "welcome": "Welcome",
+  "login": "Login",
+  "logout": "Logout",
+  "username": "Username",
+  "password": "Password",
+  "invalid_credentials": "Invalid login credentials. Please try again.",
+  "account": "Account",
+  "users": "Users",
+  "status": "Status",
+  "created": "Created",
+  "filter_by_date": "Filter by date",
+  "filter_by_status": "Filter by status",
+  "active": "Active",
+  "inactive": "Inactive",
+  "name": "Name"
+} 

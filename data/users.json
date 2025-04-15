@@ -1,0 +1,395 @@
+[
+  {
+    "id": 1,
+    "name": "Давид",
+    "surname": "Джонс",
+    "credentials": {
+      "username": "david.jones@creds.com",
+      "passphrase": "52ccca432ab28afd90969084c061b23c"
+    },
+    "status": "active",
+    "date_created": "03.03.2025 10:00:21",
+    "role": "Администратор",
+    "department": "IT",
+    "_comment": "Пользователь Давид Джонс с логином david.jones@creds.com и паролем '8u3&s-1uda'"
+  },
+  {
+    "id": 2,
+    "name": "Саманта",
+    "surname": "Робертсон",
+    "credentials": {
+      "username": "sam.robertson@creds.com",
+      "passphrase": "cefdd8f05b00320c8ff42f8734f96633"
+    },
+    "status": "active",
+    "date_created": "03.03.2025 10:28:13",
+    "role": "Менеджер",
+    "department": "Продажи",
+    "_comment": "Пользователь Саманта Робертсон с логином sam.robertson@creds.com и паролем '0k91sa639'"
+  },
+  {
+    "id": 3,
+    "name": "Николас",
+    "surname": "Крю",
+    "credentials": {
+      "username": "nic.crew@creds.com",
+      "passphrase": "23c2b519b1e2cd4bbaf5f68f58024785"
+    },
+    "status": "inactive",
+    "date_created": "01.03.2025 12:56:28",
+    "role": "Разработчик",
+    "department": "IT",
+    "_comment": "Пользователь Николас Крю с логином nic.crew@creds.com и паролем '1atr48asf03'"
+  },
+  {
+    "id": 4,
+    "name": "Анна",
+    "surname": "Смирнова",
+    "credentials": {
+      "username": "anna.smirnova@creds.com",
+      "passphrase": "a1b2c3d4e5f6g7h8i9j0"
+    },
+    "status": "active",
+    "date_created": "02.03.2025 09:15:30",
+    "role": "Аналитик",
+    "department": "Аналитика"
+  },
+  {
+    "id": 5,
+    "name": "Михаил",
+    "surname": "Петров",
+    "credentials": {
+      "username": "mikhail.petrov@creds.com",
+      "passphrase": "qwerty123456"
+    },
+    "status": "active",
+    "date_created": "02.03.2025 11:20:45",
+    "role": "Тестировщик",
+    "department": "QA"
+  },
+  {
+    "id": 6,
+    "name": "Елена",
+    "surname": "Иванова",
+    "credentials": {
+      "username": "elena.ivanova@creds.com",
+      "passphrase": "password123"
+    },
+    "status": "inactive",
+    "date_created": "01.03.2025 14:30:00",
+    "role": "Дизайнер",
+    "department": "Дизайн"
+  },
+  {
+    "id": 7,
+    "name": "Алексей",
+    "surname": "Соколов",
+    "credentials": {
+      "username": "alexey.sokolov@creds.com",
+      "passphrase": "letmein2025"
+    },
+    "status": "active",
+    "date_created": "03.03.2025 08:45:12",
+    "role": "Менеджер проектов",
+    "department": "Управление"
+  },
+  {
+    "id": 8,
+    "name": "Ольга",
+    "surname": "Кузнецова",
+    "credentials": {
+      "username": "olga.kuznetsova@creds.com",
+      "passphrase": "securepass"
+    },
+    "status": "active",
+    "date_created": "02.03.2025 16:20:33",
+    "role": "HR-менеджер",
+    "department": "HR"
+  },
+  {
+    "id": 9,
+    "name": "Дмитрий",
+    "surname": "Васильев",
+    "credentials": {
+      "username": "dmitry.vasiliev@creds.com",
+      "passphrase": "vasiliev2025"
+    },
+    "status": "inactive",
+    "date_created": "01.03.2025 10:10:10",
+    "role": "Разработчик",
+    "department": "IT"
+  },
+  {
+    "id": 10,
+    "name": "Мария",
+    "surname": "Попова",
+    "credentials": {
+      "username": "maria.popova@creds.com",
+      "passphrase": "popova2025"
+    },
+    "status": "active",
+    "date_created": "03.03.2025 13:15:45",
+    "role": "Маркетолог",
+    "department": "Маркетинг"
+  },
+  {
+    "id": 11,
+    "name": "Андрей",
+    "surname": "Морозов",
+    "credentials": {
+      "username": "andrey.morozov@creds.com",
+      "passphrase": "morozov2025"
+    },
+    "status": "active",
+    "date_created": "02.03.2025 09:30:20",
+    "role": "Системный администратор",
+    "department": "IT"
+  },
+  {
+    "id": 12,
+    "name": "Татьяна",
+    "surname": "Новикова",
+    "credentials": {
+      "username": "tatiana.novikova@creds.com",
+      "passphrase": "novikova2025"
+    },
+    "status": "inactive",
+    "date_created": "01.03.2025 15:45:30",
+    "role": "Контент-менеджер",
+    "department": "Маркетинг"
+  },
+  {
+    "id": 13,
+    "name": "Сергей",
+    "surname": "Волков",
+    "credentials": {
+      "username": "sergey.volkov@creds.com",
+      "passphrase": "volkov2025"
+    },
+    "status": "active",
+    "date_created": "03.03.2025 11:20:15",
+    "role": "Бизнес-аналитик",
+    "department": "Аналитика"
+  },
+  {
+    "id": 14,
+    "name": "Наталья",
+    "surname": "Козлова",
+    "credentials": {
+      "username": "natalya.kozлова@creds.com",
+      "passphrase": "kozlova2025"
+    },
+    "status": "active",
+    "date_created": "02.03.2025 14:10:40",
+    "role": "Финансовый аналитик",
+    "department": "Финансы"
+  },
+  {
+    "id": 15,
+    "name": "Иван",
+    "surname": "Федоров",
+    "credentials": {
+      "username": "ivan.fedorov@creds.com",
+      "passphrase": "fedorov2025"
+    },
+    "status": "inactive",
+    "date_created": "01.03.2025 09:25:50",
+    "role": "Разработчик",
+    "department": "IT"
+  },
+  {
+    "id": 16,
+    "name": "Екатерина",
+    "surname": "Соловьева",
+    "credentials": {
+      "username": "ekaterina.solovieva@creds.com",
+      "passphrase": "solovieva2025"
+    },
+    "status": "active",
+    "date_created": "03.03.2025 10:40:25",
+    "role": "Менеджер по продажам",
+    "department": "Продажи"
+  },
+  {
+    "id": 17,
+    "name": "Павел",
+    "surname": "Семенов",
+    "credentials": {
+      "username": "pavel.semenov@creds.com",
+      "passphrase": "semenov2025"
+    },
+    "status": "active",
+    "date_created": "02.03.2025 13:30:15",
+    "role": "DevOps инженер",
+    "department": "IT"
+  },
+  {
+    "id": 18,
+    "name": "Юлия",
+    "surname": "Голубева",
+    "credentials": {
+      "username": "yulia.golubeva@creds.com",
+      "passphrase": "golubeva2025"
+    },
+    "status": "inactive",
+    "date_created": "01.03.2025 11:15:20",
+    "role": "UX-дизайнер",
+    "department": "Дизайн"
+  },
+  {
+    "id": 19,
+    "name": "Артем",
+    "surname": "Киселев",
+    "credentials": {
+      "username": "artem.kiselev@creds.com",
+      "passphrase": "kiselev2025"
+    },
+    "status": "active",
+    "date_created": "03.03.2025 09:50:30",
+    "role": "Технический писатель",
+    "department": "Документация"
+  },
+  {
+    "id": 20,
+    "name": "Анастасия",
+    "surname": "Лебедева",
+    "credentials": {
+      "username": "anastasia.lebedeva@creds.com",
+      "passphrase": "lebedeva2025"
+    },
+    "status": "active",
+    "date_created": "02.03.2025 15:20:45",
+    "role": "Менеджер по продукту",
+    "department": "Управление"
+  },
+  {
+    "id": 21,
+    "name": "Роман",
+    "surname": "Егоров",
+    "credentials": {
+      "username": "roman.egorov@creds.com",
+      "passphrase": "egorov2025"
+    },
+    "status": "inactive",
+    "date_created": "01.03.2025 13:40:10",
+    "role": "Разработчик",
+    "department": "IT"
+  },
+  {
+    "id": 22,
+    "name": "Виктория",
+    "surname": "Степанова",
+    "credentials": {
+      "username": "victoria.stepanova@creds.com",
+      "passphrase": "stepanova2025"
+    },
+    "status": "active",
+    "date_created": "03.03.2025 12:30:20",
+    "role": "Менеджер по работе с клиентами",
+    "department": "Продажи"
+  },
+  {
+    "id": 23,
+    "name": "Александр",
+    "surname": "Николаев",
+    "credentials": {
+      "username": "alexander.nikolaev@creds.com",
+      "passphrase": "nikolaev2025"
+    },
+    "status": "active",
+    "date_created": "02.03.2025 10:15:30",
+    "role": "Архитектор",
+    "department": "IT"
+  },
+  {
+    "id": 24,
+    "name": "Ксения",
+    "surname": "Орлова",
+    "credentials": {
+      "username": "ksenia.orlova@creds.com",
+      "passphrase": "orlova2025"
+    },
+    "status": "inactive",
+    "date_created": "01.03.2025 16:30:40",
+    "role": "Копирайтер",
+    "department": "Маркетинг"
+  },
+  {
+    "id": 25,
+    "name": "Максим",
+    "surname": "Андреев",
+    "credentials": {
+      "username": "maxim.andreev@creds.com",
+      "passphrase": "andreev2025"
+    },
+    "status": "active",
+    "date_created": "03.03.2025 14:20:15",
+    "role": "Руководитель отдела",
+    "department": "Управление"
+  },
+  {
+    "id": 26,
+    "name": "Алиса",
+    "surname": "Макарова",
+    "credentials": {
+      "username": "alisa.makarova@creds.com",
+      "passphrase": "makarova2025"
+    },
+    "status": "active",
+    "date_created": "02.03.2025 11:40:25",
+    "role": "Специалист по безопасности",
+    "department": "IT"
+  },
+  {
+    "id": 27,
+    "name": "Георгий",
+    "surname": "Захаров",
+    "credentials": {
+      "username": "georgy.zakharov@creds.com",
+      "passphrase": "zakharov2025"
+    },
+    "status": "inactive",
+    "date_created": "01.03.2025 09:50:30",
+    "role": "Разработчик",
+    "department": "IT"
+  },
+  {
+    "id": 28,
+    "name": "София",
+    "surname": "Романова",
+    "credentials": {
+      "username": "sofia.romanova@creds.com",
+      "passphrase": "romanova2025"
+    },
+    "status": "active",
+    "date_created": "03.03.2025 15:30:45",
+    "role": "Менеджер по обучению",
+    "department": "HR"
+  },
+  {
+    "id": 29,
+    "name": "Тимофей",
+    "surname": "Воробьев",
+    "credentials": {
+      "username": "timofey.vorobiev@creds.com",
+      "passphrase": "vorobiev2025"
+    },
+    "status": "active",
+    "date_created": "02.03.2025 12:50:35",
+    "role": "Технический директор",
+    "department": "Управление"
+  },
+  {
+    "id": 30,
+    "name": "Валерия",
+    "surname": "Белова",
+    "credentials": {
+      "username": "valeria.belova@creds.com",
+      "passphrase": "belova2025"
+    },
+    "status": "inactive",
+    "date_created": "01.03.2025 14:20:50",
+    "role": "Менеджер проектов",
+    "department": "Управление"
+  }
+] 
